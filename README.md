@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xredday
+- 👀 I’m interested in aviation and other stuff.
+- 🌱 ’m currently learning how to be an air traffic controller and doing some projects for [VATSIM](https://vatsim.net) or related.
+- 📫 To reach me - https://t.me/xxredday
