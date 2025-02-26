@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @xredday
 - 🎓 Bachelor of Air Navigation (2024)
+- 💼 Air Traffic Controller
 - 👀 Interested in aviation and related stuff
-- 🌱 Currently in process of becoming an air traffic controller and doing some side-projects for [VATSIM](https://vatsim.net) or related to aviation
+- 🌱 Sometimes doing some side-projects for [VATSIM](https://vatsim.net) or related to aviation
 - 📫 To reach me - https://t.me/xxredday
